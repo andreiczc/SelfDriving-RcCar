@@ -1,9 +1,12 @@
 # Computer Vision and Machine Learning application in developing an autonomous car
 
-- [Computer Vision and Machine Learning application in developing an autonomous car](#computer-vision-and-machine-learning-application-in-developing-an-autonomous-car)
-  - [Introduction](#introduction)
-  - [Hardware used](#hardware-used)
-  - [Neural Network architecture used](#neural-network-architecture-used)
+[![Video to Demo](http://img.youtube.com/vi/BPs_-qfbrYE/0.jpg)](https://www.youtube.com/watch?v=BPs_-qfbrYE "SelfDriving RC Car demonstartion")
+
+## Table of contents
+
+- [Introduction](#introduction)
+- [Hardware used](#hardware-used)
+- [Neural Network architecture used](#neural-network-architecture-used)
 
 ## Introduction
 
