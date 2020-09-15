@@ -1,5 +1,7 @@
 # Computer Vision and Machine Learning application in developing an autonomous car
 
+**Video demo**
+
 [![Video to Demo](http://img.youtube.com/vi/BPs_-qfbrYE/0.jpg)](https://www.youtube.com/watch?v=BPs_-qfbrYE "SelfDriving RC Car demonstartion")
 
 ## Table of contents
